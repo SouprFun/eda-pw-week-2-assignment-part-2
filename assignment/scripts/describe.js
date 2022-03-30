@@ -71,10 +71,10 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// we create the variables student being true, age being the number value 34, and zip being the number value 55407
+// we run the variables through a conditional first checking if student is true AND zip > 80000, the zip doesn't meet the condition, move on 
+// next it checks if student is false OR age is less than 30, age is greater than 30 skip to next
+// next check student is true, it is: console.log 'Welcome to Prime!' exit conditional
 
 //CODE
 /*
