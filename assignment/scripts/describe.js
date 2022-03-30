@@ -135,6 +135,8 @@ let colorOne = 'red';
 let colorTwo = 'blue';
 let mix = true;
 
+//FIX - add colorTwo = 'purple'; to the next line after the colorOne code.
+
 if (mix === true) {
   colorOne = 'purple';
 }
