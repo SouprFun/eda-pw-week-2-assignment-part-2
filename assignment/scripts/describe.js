@@ -165,6 +165,8 @@ if (temp > 39 || time >= 4) {
 let age = 21;
 const minAge = 21;
 
+//FIX - currently the condition is checking if the age is less than equal - remove the = for no entry
+
 if(minAge <= age) {
   console.log('no entry');
 } else {
