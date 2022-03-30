@@ -26,10 +26,10 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
+// Made a variable 'name' and set it to the string "Dane"
+// we then check it against the conditional statement of if the variable name is Mary
 // 
-// 
-// 
-//
+//we console.log 'How do you do?'
 
 //CODE
 /*
