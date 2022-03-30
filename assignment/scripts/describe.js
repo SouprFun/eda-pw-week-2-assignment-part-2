@@ -29,7 +29,7 @@ if (number >= 2) {
 // Made a variable 'name' and set it to the string "Dane"
 // we then check it against the conditional statement of if the variable name is Mary
 // 
-//we console.log 'How do you do?'
+// we console.log 'How do you do?'
 
 //CODE
 /*
@@ -45,10 +45,11 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// we make a variable named secret with no initial value, and a second variable caled code equal to the number 123
+// we run the variable code through a conditional statement checking if code is equal to the number value 123, it is
+// we then run code since the condition was met, giving secret the string "super" and doubling code to 246
+// we then check to see if code is > 250, it is not so we skip the code
+// we then log secret as 'super'
 
 //CODE
 /*
